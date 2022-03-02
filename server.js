@@ -5,7 +5,10 @@ const app = express();
 const PORT = 3000;
 
 app.get('/', (req, res) => {
-    res.send('Hello!');
+    res.send({
+        id: 1,
+        name: 'Sir Isaac Netwon'
+    });
 })
 
 app.get('/messages', (req, res) => {
