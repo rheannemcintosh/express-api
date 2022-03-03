@@ -20,7 +20,7 @@ app.get('/friends', (req, res) => {
 })
 
 app.get('/friends/:friendId', (req, res) => {
-    const friendId = Number(req.parans.friendId);
+    const friendId = Number(req.params.friendId);
     const friend = friends[friendId];
     if (friend) {
         res.json(friend);
