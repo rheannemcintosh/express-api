@@ -1,1 +1,61 @@
-# express-api
+# Express API :computer:
+
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
+## Project Overiew
+An Express API to learn the basics of [Express.js](https://expressjs.com/) through [Zero To Mastery: Complete NodeJS Developer in 2022](https://www.udemy.com/course/complete-nodejs-developer-zero-to-mastery/learn/lecture/30394556#content).
+
+<!--
+# GIF Finder :movie_camera:
+
+## Project Overview
+The GIF Finder is a React application which allows users to search for a GIF using the [GIPHY API](https://developers.giphy.com/), which I created at the start of my React journey.
+
+### Inspiration
+The original application was inspired by the Treehouse workshop, [Data Fetching in React](https://teamtreehouse.com/library/data-fetching-in-react). This was also a part of my **100 Days of Code Challenge** with Team Treehouse.
+-->
+
+<!-- ### Customising the Application -->
+
+## Repository Checklist
+- [ ] Upload Code
+- [ ] Format Code
+- [ ] Update Repository
+- [ ] Update README
+- [ ] Create Future Ideas
+- [ ] Write Application Setup / Commands
+- [ ] Launch Website
+- [ ] Create Card on Portfolio
+- [ ] Create Page on Portfolio
+- [ ] Archive Repository
+
+<!--
+## Future Ideas
+- :bulb: Display the search term on screen
+- :bulb: Add a delete button to the search bar
+
+## Notes
+- **Language:** React
+- **Tags:** React, GIPHY API
+- **Tutorial:** [Data Fetching in React](https://teamtreehouse.com/library/data-fetching-in-react)
+- **Author:** Rheanne McIntosh
+- **100 Days of Treehouse:** Day 102 / 100
+
+-->
+
+<!--
+## Application Setup / Commands
+1. Run the following command first to install all necessary packages:
+```
+npm install
+```
+2. Then run the following command to view the application locally:
+```
+npm start
+```
+3. You should now have a local version of the GIF Finder Application!
+
+<hr>
+-->
+
+If you have any questions or can suggest any improvements, please let me know!
