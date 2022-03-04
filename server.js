@@ -15,9 +15,16 @@ const friends = [
     }
 ];
 
+app.use((req, res, next) => {
+    const start = Date.now();
+    next();
+    const delta = Date.now() - start;
+    console.log(`${req.method} ${req.url} ${delta}ms`);
+});
+
 app.get('/friends', (req, res) => {
     res.json(friends);
-})
+});
 
 app.get('/friends/:friendId', (req, res) => {
     const friendId = Number(req.params.friendId);
