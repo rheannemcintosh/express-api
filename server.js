@@ -4,17 +4,6 @@ const app = express();
 
 const PORT = 3000;
 
-const friends = [
-    {
-        id: 0,
-        name: 'Albert Einstein'
-    },
-    {
-        id: 1,
-        name: 'Sir Isaac Netwon'
-    }
-];
-
 app.use((req, res, next) => {
     const start = Date.now();
     next();
