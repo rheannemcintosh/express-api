@@ -1,21 +1,12 @@
 # Express API :computer:
 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ## Project Overiew
-An Express API to learn the basics of [Express.js](https://expressjs.com/) through [Zero To Mastery: Complete NodeJS Developer in 2022](https://www.udemy.com/course/complete-nodejs-developer-zero-to-mastery/learn/lecture/30394556#content).
-
-<!--
-# GIF Finder :movie_camera:
-
-## Project Overview
-The GIF Finder is a React application which allows users to search for a GIF using the [GIPHY API](https://developers.giphy.com/), which I created at the start of my React journey.
+A basic API to learn the basics of [Express.js](https://expressjs.com/) and [HandleBars.js](https://handlebarsjs.com/).
 
 ### Inspiration
-The original application was inspired by the Treehouse workshop, [Data Fetching in React](https://teamtreehouse.com/library/data-fetching-in-react). This was also a part of my **100 Days of Code Challenge** with Team Treehouse.
--->
-
-<!-- ### Customising the Application -->
+The original application was inspired by a tutorial on the ZTM Course, [Complete NodeJS Developer in 2022](https://www.udemy.com/course/complete-nodejs-developer-zero-to-mastery/).
 
 ## Repository Checklist
 - [ ] Upload Code
@@ -33,15 +24,13 @@ The original application was inspired by the Treehouse workshop, [Data Fetching 
 ## Future Ideas
 - :bulb: Display the search term on screen
 - :bulb: Add a delete button to the search bar
+-->
 
 ## Notes
-- **Language:** React
-- **Tags:** React, GIPHY API
-- **Tutorial:** [Data Fetching in React](https://teamtreehouse.com/library/data-fetching-in-react)
+- **Language:** NodeJS
+- **Tags:** NodeJS, ExpressJS, HandlebarsJS
+- **Tutorial:** [Complete NodeJS Developer in 2022 | Section 8: NASA First Express.js API](https://www.udemy.com/course/complete-nodejs-developer-zero-to-mastery/learn/lecture/30394556#overview)
 - **Author:** Rheanne McIntosh
-- **100 Days of Treehouse:** Day 102 / 100
-
--->
 
 <!--
 ## Application Setup / Commands
@@ -55,7 +44,8 @@ npm start
 ```
 3. You should now have a local version of the GIF Finder Application!
 
-<hr>
 -->
+
+<hr>
 
 If you have any questions or can suggest any improvements, please let me know!
